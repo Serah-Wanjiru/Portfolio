@@ -1,0 +1,142 @@
+
+.a2{
+    width: 50%;
+    padding-left: 20px;
+}
+.a3{
+    width: 50%;
+}
+.a1 ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+}
+.a1{
+    display: flex;
+    border: 100%;
+}
+.img{
+    padding-left: 30%;
+    position: relative;
+    top: -100px;
+    width: 100%;
+    height: 100%;
+}
+.main1{
+    display: flex; 
+}
+.second{
+    padding-left: 15%;
+    position: relative;
+    bottom: -120px;
+}
+.jungle{
+    background-color: pink;
+    margin: 90px;
+    border-radius: 30px;
+}
+.btn{
+    padding: 20px;
+    gap: 20px;
+    border-radius: 15px;
+    background-color: yellow;
+}
+.sp{
+    color: green;
+}
+.sp2{
+    color: blue;
+}
+.hello{
+    font-size: 40px;
+}
+.cont{
+    font-size: 40px;
+
+}
+.parg{
+    font-size: 20px;
+}
+.body2{
+    display: flex;
+    background-color: pink;
+    margin: 90px;
+    border-radius: 30px;
+    padding-top: 20%;
+}
+.img2{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: -130px;
+  
+   
+}
+
+   
+
+.about{
+    padding-left: 10%;
+    position: relative;
+    bottom: -120px;
+    position: relative;
+    top: -100px;
+
+}
+.cont2{
+    font-size: 20px;
+}
+.name{
+    color: blue;
+}
+.head2{
+    font-size:40px ;
+}
+.language{
+    color: green;
+}
+.exp{
+    color: yellow;
+}
+.body3{
+    display: flex;
+}
+.body4{
+    display: flex;
+
+}
+.img4{
+    padding-left: 15%;
+    position: relative;
+    top: -200px;
+}
+.p1{
+    font-size: 20px;
+}
+.body4{
+    background-color: pink;
+    padding-top: 20%;
+    margin: 90px;
+    border-radius: 30px;
+    
+}
+.p2{
+    position: relative;
+    top: -150px;
+    padding-left: 20px;
+
+}
+.h2{
+    text-align: center;
+}
+.p4{
+    color: blue;
+
+}
+.p5{
+color: greenyellow;
+}
+.p6{
+    color: green;
+}
